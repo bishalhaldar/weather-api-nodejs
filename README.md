@@ -5,6 +5,7 @@ Simple Express API that returns weather information.
 ## Run locally
 
 npm install
+
 node index.js
 
 open: http://localhost:3000/weather?city=Delhi
