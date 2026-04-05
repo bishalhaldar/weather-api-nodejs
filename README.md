@@ -62,7 +62,7 @@ Request:
 
 Response:
 
-```json
+``` JSON
 {
   "city":"Delhi",
   "temp":"dummy data"
@@ -84,16 +84,3 @@ docker run -p 3000:3000 weather-api
 Test: 
 
 http://localhost:3000/weather?city=Delhi
-
----
-
-# How to Update the Repo
-
-After editing README.md locally:
-
-```bash
-git add README.md
-git commit -m "docs: improve README with stack, prerequisites and example response"
-git push
-```
-
