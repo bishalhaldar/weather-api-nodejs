@@ -44,10 +44,6 @@ Start the server:
 
 node index.js
 
-Server runs at:
-
-http://localhost:3000/weather?city=Delhi
-
 Test endpoint:
 
 http://localhost:3000/weather?city=Delhi
