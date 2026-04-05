@@ -1,5 +1,8 @@
 # Weather API (Node.js + Docker)
 
+[![Docker
+Hub](https://img.shields.io/badge/Docker%20Hub-weather--api-blue?logo=docker)](https://hub.docker.com/r/bishalhaldar/weather-api)
+
 A simple Express API that returns weather information for a given city.
 
 ---
