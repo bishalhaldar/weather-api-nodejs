@@ -69,13 +69,17 @@ Response:
 
 ## Runing with Docker
 
-Build image:
+Build image locally:
 
 docker build -t weather-api .
 
+Pull image for Docker Hub:
+
+docker pull bishalhaldar/weather-api
+
 Run container:
 
-docker run -p 3000:3000 weather-api
+docker run -p 3000:3000 bishalhaldar/weather-api
 
 Test: 
 
